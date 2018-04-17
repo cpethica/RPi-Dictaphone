@@ -4,8 +4,11 @@ A raspberry pi zero based dictaphone. Press button 1 to record audio from microp
 
 ## Hardware
 
-[USB audio interface] (https://thepihut.com/collections/raspberry-pi-usb-accessories/products/usb-audio-adapter)
-[Electret microphone] (http://uk.farnell.com/adafruit/1063/for-use-with-mcu-sensor-evaluation/dp/2419156)
+[USB Audio Interface](https://thepihut.com/collections/raspberry-pi-usb-accessories/products/usb-audio-adapter)
+
+
+[Electret microphone](http://uk.farnell.com/adafruit/1063/for-use-with-mcu-sensor-evaluation/dp/2419156)
+
 Mini speaker
 3.3v Regulator
 Buttons
