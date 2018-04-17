@@ -2,7 +2,7 @@
 
 A raspberry pi zero based dictaphone. Press button 1 to record audio from microphone to file. Press button 2 to play last recorded file.
 
-
+![](images/board_buttons.jpg)
 
 ## Hardware
 
